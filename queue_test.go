@@ -1,4 +1,4 @@
-package github.com/yinchyu/gomodule
+package "github.com/yinchyu/gomodule"
 
 import (
 	"fmt"
