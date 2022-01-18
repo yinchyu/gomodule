@@ -1,4 +1,4 @@
-package main
+package github.com/yinchyu/gomodule
 
 import (
 	"fmt"
