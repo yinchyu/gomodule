@@ -1,5 +1,4 @@
-// esQueue
-package "github.com/yinchyu/gomodule"
+package gomodule
 import (
 	"fmt"
 	"runtime"
